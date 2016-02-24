@@ -1,0 +1,14 @@
+layout_spectrum: 0.9301075
+typography_spectrum: 1
+color:
+  saturation: 0.7712067
+  lightness: 0.3566308
+  brandStrength: 0.3494623
+  brandColors:
+    - '#645B5D'
+    - '#1F2532'
+    - '#E8A49A'
+    - '#BD766E'
+    - '#F3C5C6'
+  rhythmicContrast: 0.006571088
+name: Design Elevation Studio
