@@ -1,14 +1,26 @@
-layout_spectrum: 0.9301075
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 1
 color:
-  saturation: 0.7712067
-  lightness: 0.3566308
-  brandStrength: 0.3494623
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
   brandColors:
-    - '#645B5D'
-    - '#1F2532'
-    - '#E8A49A'
-    - '#BD766E'
-    - '#F3C5C6'
-  rhythmicContrast: 0.006571088
+    - '#000000'
+    - '#FFFFFF'
+    - '#B41436'
+    - '#4B494A'
+    - '#4D9F1B'
+  rhythmicContrast: 1
+layout_spectrum: 0.9301075
 name: Design Elevation Studio
