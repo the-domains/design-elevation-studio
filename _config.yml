@@ -10,7 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
+typography_spectrum: 0.0858396
 color:
   saturation: 1
   brandStrength: 1
@@ -22,5 +22,5 @@ color:
     - '#4B494A'
     - '#4D9F1B'
   rhythmicContrast: 1
-layout_spectrum: 0.9301075
+layout_spectrum: 0
 name: Design Elevation Studio
